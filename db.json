@@ -1,0 +1,398 @@
+{
+  "posts":[
+  {
+    "id":31,
+    "date":"18-08-2019",
+    "userId":1,
+    "photos":["https://via.placeholder.com/600"],
+    "description":"lorem ipsum dolor sit amet",
+    "title":"Shoes",
+    "categoryId":21,
+    "isActive":true
+  },
+  {
+    "id":32,
+    "date":"14-09-2019",
+    "userId":1,
+    "photos":["https://via.placeholder.com/450/f66b9", "https://via.placeholder.com/630"],
+    "description":"lorem ipsum dolor sit amet",
+    "title":"Furniture",
+    "categoryId":23,
+    "isActive":false
+  },
+  {
+    "id":33,
+    "date":"03-11-2019",
+    "userId":2,
+    "photos":["https://via.placeholder.com/450"],
+    "description":"lorem ipsum dolor sit amet",
+    "title":"New T-shirt",
+    "categoryId":22,
+    "isActive":true
+  },
+  {
+    "id":34,
+    "date":"07-04-2019",
+    "userId":3,
+    "photos":["https://via.placeholder.com/300/f66b9","https://via.placeholder.com/300"],
+    "description":"lorem ipsum dolor sit amet",
+    "title":"Skirt",
+    "categoryId":25,
+    "isActive":false
+  },
+    {
+      "id":35,
+      "date":"18-08-2019",
+      "userId":2,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Shoes",
+      "categoryId":21,
+      "isActive":true
+    },
+    {
+      "id":36,
+      "date":"14-09-2018",
+      "userId":9,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/600/f66b9"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":37,
+      "date":"03-12-2019",
+      "userId":4,
+      "photos":["https://via.placeholder.com/600/f66b9"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New T-shirt",
+      "categoryId":22,
+      "isActive":true
+    },
+    {
+      "id":38,
+      "date":"07-04-2018",
+      "userId":8,
+      "photos":["https://via.placeholder.com/600/771796", "https://via.placeholder.com/600/f66b9","https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Skirt",
+      "categoryId":25,
+      "isActive":false
+    },
+    {
+      "id":39,
+      "date":"18-11-2019",
+      "userId":1,
+      "photos":["https://via.placeholder.com/450/771796"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Shoes",
+      "categoryId":21,
+      "isActive":true
+    },
+    {
+      "id":40,
+      "date":"14-09-2017",
+      "userId":1,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/600/f66b97"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":42,
+      "date":"07-04-2019",
+      "userId":3,
+      "photos":["https://via.placeholder.com/300/f66b97", "https://via.placeholder.com/450","https://via.placeholder.com/600/f66b97"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Skirt",
+      "categoryId":25,
+      "isActive":false
+    },
+    {
+      "id":43,
+      "date":"22-06-2019",
+      "userId":2,
+      "photos":["https://via.placeholder.com/600/24f355"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New Shoes",
+      "categoryId":21,
+      "isActive":true
+    },
+    {
+      "id":44,
+      "date":"28-09-2019",
+      "userId":9,
+      "photos":["https://via.placeholder.com/600/24f355", "https://via.placeholder.com/450"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":45,
+      "date":"15-10-2019",
+      "userId":4,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New T-shirt",
+      "categoryId":22,
+      "isActive":true
+    },
+    {
+      "id":48,
+      "date":"04-09-2019",
+      "userId":1,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/600/24f355"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Old Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":49,
+      "date":"03-11-2019",
+      "userId":2,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New T-shirt",
+      "categoryId":22,
+      "isActive":true
+    },
+    {
+      "id":50,
+      "date":"07-08-2019",
+      "userId":3,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/600","https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Skirt",
+      "categoryId":25,
+      "isActive":false
+    },
+    {
+      "id":53,
+      "date":"13-10-2019",
+      "userId":4,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New T-shirt",
+      "categoryId":22,
+      "isActive":true
+    },
+    {
+      "id":54,
+      "date":"07-04-2019",
+      "userId":8,
+      "photos":["https://via.placeholder.com/600/771796","https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Skirt",
+      "categoryId":25,
+      "isActive":false
+    },
+    {
+      "id":55,
+      "date":"16-08-2019",
+      "userId":1,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Shoes",
+      "categoryId":21,
+      "isActive":true
+    },
+    {
+      "id":56,
+      "date":"14-03-2019",
+      "userId":1,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/450"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":57,
+      "date":"03-11-2019",
+      "userId":2,
+      "photos":["https://via.placeholder.com/600/771796"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"New T-shirt",
+      "categoryId":22,
+      "isActive":true
+    },
+    {
+      "id":58,
+      "date":"05-02-2019",
+      "userId":3,
+      "photos":["https://via.placeholder.com/300", "https://via.placeholder.com/300","https://via.placeholder.com/450"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Skirt",
+      "categoryId":25,
+      "isActive":false
+    },
+    {
+      "id":59,
+      "date":"18-08-2019",
+      "userId":2,
+      "photos":["https://via.placeholder.com/300/771796"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Shoes",
+      "categoryId":21,
+      "isActive":true
+    },
+    {
+      "id":60,
+      "date":"14-09-2019",
+      "userId":9,
+      "photos":["https://via.placeholder.com/600", "https://via.placeholder.com/450/771796"],
+      "description":"lorem ipsum dolor sit amet",
+      "title":"Furniture",
+      "categoryId":23,
+      "isActive":false
+    },
+    {
+      "id":61,
+      "date":"30-11-2019",
+      "userId":4,
+      "photos":["https://via.placeholder.com/600"],
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "title":"Title",
+      "categoryId":26,
+      "isActive":false
+    },
+    {
+      "id":62,
+      "date":"05-10-2019",
+      "userId":9,
+      "photos":["https://via.placeholder.com/600/771796", "https://via.placeholder.com/600/24f355","https://via.placeholder.com/600"],
+      "description":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+      "title":"Skirt for little girl",
+      "categoryId":25,
+      "isActive":false
+    }
+],
+  "users":  [
+   {
+     "id": 1,
+     "email": "Sincere@april.biz",
+     "password":"sincere1",
+     "phone": "1-770-736-8031",
+     "type":"share",
+     "avatar":"https://via.placeholder.com/100/d33079",
+     "about": "Proactive didactic contingency"
+   },
+   {
+     "id": 2,
+     "email": "Shanna@melissa.tv",
+     "password":"shanna2",
+     "phone": "1-077-736-3178",
+     "type":"share",
+     "avatar":"https://via.placeholder.com/100",
+     "about": "BlaBlaBlaBla"
+   },
+   {
+     "id": 3,
+     "email": "Nathan@yesenia.net",
+     "password":"nathan3",
+     "phone": "1-050-736-6631",
+     "type":"share",
+     "avatar":"https://via.placeholder.com/150",
+     "about": "Face to face bifurcated interface"
+   },
+   {
+     "id": 4,
+     "email": "Julianne.OConner@kory.org",
+     "password":"oconner4",
+     "phone": "1-055-736-8031",
+     "type":"share",
+     "avatar":"https://via.placeholder.com/150/24f355",
+     "about": "Lorem lorem lorem lorem loreem"
+   },
+   {
+     "id": 5,
+     "email": "Lucio_Hettinger@annie.ca",
+     "password":"lucio5",
+     "phone": "(254)954-1289",
+     "type": "need",
+     "avatar":"https://via.placeholder.com/100/24f355",
+     "about": "User-centric fault-tolerant solution"
+   },
+   {
+     "id": 6,
+     "email": "Karley_Dach@jasper.info",
+     "password":"karley6",
+     "phone": "1-477-935-8478",
+     "type": "need",
+     "avatar":"https://via.placeholder.com/100",
+     "about": "e-enable innovative applications"
+   },
+   {
+     "id": 7,
+     "email": "Telly.Hoeger@billy.biz",
+     "password":"telly7h",
+     "phone": "210.067.6132",
+     "type":"need",
+     "avatar":"https://via.placeholder.com/100/f66b9",
+     "about": "Configurable multimedia task-force generate enterprise e-tailers"
+   },
+   {
+     "id": 8,
+     "email": "Sherwood@rosamond.me",
+     "password":"sherwood8",
+     "phone": "586.493.6943",
+     "type" : "share",
+     "avatar" : "https://via.placeholder.com/100/f66b9",
+     "about": "Implemented secondary concept"
+   },
+   {
+     "id": 9,
+     "email": "Chaim_McDermott@dana.io",
+     "password":"chaim9",
+     "phone": "(775)976-6794",
+     "type": "share",
+     "avatar":"https://via.placeholder.com/150",
+     "about": "Switchable contextually-based project"
+   },
+   {
+     "id": 10,
+     "email": "Rey.Padberg@karina.biz",
+     "password": "padberg10",
+     "phone": "024-648-3804",
+     "type":"need",
+     "avatar":"https://via.placeholder.com/100/24f355",
+     "about": "Centralized empowering task-force"
+   }
+ ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "men/boys",
+      "subName": "shoes"
+    },
+    {
+      "id": 22,
+      "name": "women/girls",
+      "subName": "tops & t-shirts"
+    },
+    {
+      "id": 23,
+      "name": "home",
+      "subName": "furniture"
+    },
+    {
+      "id": 24,
+      "name": "home",
+      "subName": "home textile"
+    },
+    {
+      "id": 25,
+      "name": "women/girls",
+      "subName": "skirts"
+    },
+    {
+      "id": 26,
+      "name": "men/boys",
+      "subName": "coats"
+    }
+  ]
+}
