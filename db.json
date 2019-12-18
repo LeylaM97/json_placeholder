@@ -8,7 +8,8 @@
     "description":"lorem ipsum dolor sit amet",
     "title":"Shoes",
     "categoryId":21,
-    "isActive":true
+    "isActive":true,
+    "type": "donate"
   },
   {
     "id":32,
@@ -18,7 +19,8 @@
     "description":"lorem ipsum dolor sit amet",
     "title":"Furniture",
     "categoryId":23,
-    "isActive":false
+    "isActive":false,
+    "type": "donate"
   },
   {
     "id":33,
@@ -28,7 +30,8 @@
     "description":"lorem ipsum dolor sit amet",
     "title":"New T-shirt",
     "categoryId":22,
-    "isActive":true
+    "isActive":true,
+    "type": "take it"
   },
   {
     "id":34,
@@ -38,7 +41,8 @@
     "description":"lorem ipsum dolor sit amet",
     "title":"Skirt",
     "categoryId":25,
-    "isActive":false
+    "isActive":false,
+    "type": "donate"
   },
     {
       "id":35,
@@ -48,7 +52,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Shoes",
       "categoryId":21,
-      "isActive":true
+      "isActive":true,
+      "type": "take it"
     },
     {
       "id":36,
@@ -58,7 +63,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Furniture",
       "categoryId":23,
-      "isActive":false
+      "isActive":false,
+      "type": "donate"
     },
     {
       "id":37,
@@ -68,7 +74,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"New T-shirt",
       "categoryId":22,
-      "isActive":true
+      "isActive":true,
+      "type": "take it"
     },
     {
       "id":38,
@@ -78,7 +85,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Skirt",
       "categoryId":25,
-      "isActive":false
+      "isActive":false,
+      "type": "donate"
     },
     {
       "id":39,
@@ -88,7 +96,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Shoes",
       "categoryId":21,
-      "isActive":true
+      "isActive":true,
+      "type": "donate"
     },
     {
       "id":40,
@@ -98,7 +107,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Furniture",
       "categoryId":23,
-      "isActive":false
+      "isActive":false,
+      "type": "donate"
     },
     {
       "id":42,
@@ -108,7 +118,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Skirt",
       "categoryId":25,
-      "isActive":false
+      "isActive":false,
+      "type": "take it"
     },
     {
       "id":43,
@@ -118,7 +129,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"New Shoes",
       "categoryId":21,
-      "isActive":true
+      "isActive":true,
+      "type": "donate"
     },
     {
       "id":44,
@@ -128,7 +140,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Furniture",
       "categoryId":23,
-      "isActive":false
+      "isActive":false,
+      "type": "take it"
     },
     {
       "id":45,
@@ -138,7 +151,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"New T-shirt",
       "categoryId":22,
-      "isActive":true
+      "isActive":true,
+      "type": "donate"
     },
     {
       "id":48,
@@ -148,7 +162,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Old Furniture",
       "categoryId":23,
-      "isActive":false
+      "isActive":false,
+      "type": "donate"
     },
     {
       "id":49,
@@ -158,7 +173,8 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"New T-shirt",
       "categoryId":22,
-      "isActive":true
+      "isActive":true,
+      "type": "donate"
     },
     {
       "id":50,
@@ -168,131 +184,115 @@
       "description":"lorem ipsum dolor sit amet",
       "title":"Skirt",
       "categoryId":25,
-      "isActive":false
+      "isActive":false,
+      "type": "take it"
     }
 ],
   "users":  [
    {
      "id": 1,
      "email": "Sincere@april.biz",
-     "password":"sincere1",
      "phone": "1-770-736-8031",
-     "type":"share",
-     "avatar":"https://via.placeholder.com/100/d33079",
-     "about": "Proactive didactic contingency"
+     "city": "Baku",
+     "name": "April"
+
    },
    {
      "id": 2,
      "email": "Shanna@melissa.tv",
-     "password":"shanna2",
      "phone": "1-077-736-3178",
-     "type":"share",
-     "avatar":"https://via.placeholder.com/100",
-     "about": "BlaBlaBlaBla"
+     "city": "Qabala",
+     "name": "Shanna"
+
    },
    {
      "id": 3,
      "email": "Nathan@yesenia.net",
-     "password":"nathan3",
      "phone": "1-050-736-6631",
-     "type":"share",
-     "avatar":"https://via.placeholder.com/150",
-     "about": "Face to face bifurcated interface"
+     "city": "Baku",
+     "name": "Nathan"
    },
    {
      "id": 4,
      "email": "Julianne.OConner@kory.org",
-     "password":"oconner4",
      "phone": "1-055-736-8031",
-     "type":"share",
-     "avatar":"https://via.placeholder.com/150/24f355",
-     "about": "Lorem lorem lorem lorem loreem"
+     "city": "Baku",
+     "name": "Julianne"
    },
    {
      "id": 5,
      "email": "Lucio_Hettinger@annie.ca",
-     "password":"lucio5",
      "phone": "(254)954-1289",
-     "type": "need",
-     "avatar":"https://via.placeholder.com/100/24f355",
-     "about": "User-centric fault-tolerant solution"
+     "city": "Baku",
+     "name": "Lucio"
    },
    {
      "id": 6,
      "email": "Karley_Dach@jasper.info",
-     "password":"karley6",
      "phone": "1-477-935-8478",
-     "type": "need",
-     "avatar":"https://via.placeholder.com/100",
-     "about": "e-enable innovative applications"
+     "city": "Quba",
+     "name": "Karley"
    },
    {
      "id": 7,
      "email": "Telly.Hoeger@billy.biz",
-     "password":"telly7h",
      "phone": "210.067.6132",
-     "type":"need",
-     "avatar":"https://via.placeholder.com/100/f66b9",
-     "about": "Configurable multimedia task-force generate enterprise e-tailers"
+     "city": "Baku",
+     "name": "Telly"
    },
    {
      "id": 8,
      "email": "Sherwood@rosamond.me",
-     "password":"sherwood8",
      "phone": "586.493.6943",
-     "type" : "share",
-     "avatar" : "https://via.placeholder.com/100/f66b9",
-     "about": "Implemented secondary concept"
+     "city": "Baku",
+     "name": "Sherwood"
    },
    {
      "id": 9,
      "email": "Chaim_McDermott@dana.io",
-     "password":"chaim9",
      "phone": "(775)976-6794",
-     "type": "share",
-     "avatar":"https://via.placeholder.com/150",
-     "about": "Switchable contextually-based project"
+     "city": "Astara",
+     "name": "Chaim"
    },
    {
      "id": 10,
      "email": "Rey.Padberg@karina.biz",
      "password": "padberg10",
      "phone": "024-648-3804",
-     "type":"need",
-     "avatar":"https://via.placeholder.com/100/24f355",
-     "about": "Centralized empowering task-force"
+     "city": "Sheki",
+     "name": "Rey"
    }
  ],
   "categories": [
     {
       "id": 21,
-      "name": "men/boys",
-      "subName": "shoes"
+      "name": "for kids",
+      "subCategory": ""
     },
     {
       "id": 22,
-      "name": "women/girls",
-      "subName": "tops & t-shirts"
+      "name": "clothes",
+      "subCategory": "men"
     },
     {
       "id": 23,
       "name": "home",
-      "subName": "furniture"
+      "subCategory": ""
     },
     {
       "id": 24,
       "name": "home",
-      "subName": "home textile"
+      "subCategory": ""
     },
     {
       "id": 25,
-      "name": "women/girls",
-      "subName": "skirts"
+      "name": "books",
+      "subCategory": ""
     },
     {
       "id": 26,
-      "name": "men/boys",
-      "subName": "coats"
+      "name": "clothes",
+      "subCategory": "women"
     }
   ]
 }
