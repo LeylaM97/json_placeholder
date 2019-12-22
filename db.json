@@ -78,17 +78,6 @@
       "type": "take it"
     },
     {
-      "id":38,
-      "date":"07-04-2018",
-      "userId":8,
-      "photos":["https://cdn.shopify.com/s/files/1/0932/7274/products/Cotton_linen_skirt_big_hem_long_skirt_women_clothes_2.jpg?v=1523606721"],
-      "description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec varius eu sem sed feugiat. Aenean tincidunt consectetur libero eget consectetur. Sed ultricies cursus maximus. Ut ullamcorper mi ac urna pharetra, sed volutpat tortor faucibus. Phasellus nec tortor scelerisque, semper enim eu, pharetra dui. Praesent eu nulla et massa posuere ultrices.",
-      "title":"Skirt",
-      "categoryId":25,
-      "isActive":false,
-      "type": "donate"
-    },
-    {
       "id":39,
       "date":"18-11-2019",
       "userId":1,
@@ -109,17 +98,6 @@
       "categoryId":23,
       "isActive":false,
       "type": "donate"
-    },
-    {
-      "id":42,
-      "date":"07-04-2019",
-      "userId":3,
-      "photos":"",
-      "description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec varius eu sem sed feugiat. Aenean tincidunt consectetur libero eget consectetur. Sed ultricies cursus maximus. Ut ullamcorper mi ac urna pharetra, sed volutpat tortor faucibus. Phasellus nec tortor scelerisque, semper enim eu, pharetra dui. Praesent eu nulla et massa posuere ultrices.",
-      "title":"Skirt",
-      "categoryId":25,
-      "isActive":false,
-      "type": "take it"
     },
     {
       "id":43,
@@ -175,17 +153,6 @@
       "categoryId":22,
       "isActive":true,
       "type": "donate"
-    },
-    {
-      "id":50,
-      "date":"07-08-2019",
-      "userId":3,
-      "photos":"",
-      "description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec varius eu sem sed feugiat. Aenean tincidunt consectetur libero eget consectetur. Sed ultricies cursus maximus. Ut ullamcorper mi ac urna pharetra, sed volutpat tortor faucibus. Phasellus nec tortor scelerisque, semper enim eu, pharetra dui. Praesent eu nulla et massa posuere ultrices.",
-      "title":"Coat",
-      "categoryId":25,
-      "isActive":false,
-      "type": "take it"
     },
     {
       "id":509,
