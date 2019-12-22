@@ -33,17 +33,6 @@
     "isActive":true,
     "type": "take it"
   },
-  {
-    "id":34,
-    "date":"07-04-2019",
-    "userId":3,
-    "photos":["http://fashiondoves.com/wp-content/uploads/2019/02/COLROVIE-Pink-Korean-Criss-Cross-V-Back-Winter-Crop-Knitted-Sweater-Women-Clothes-2018-Autumn-Pullover.jpg_640x640.jpg"],
-    "description":"Etiam condimentum accumsan quam, sed mollis magna blandit quis. Donec efficitur, massa eu ullamcorper varius, tortor neque efficitur risus, sit amet egestas nisi sem et justo. Fusce imperdiet, libero eget vehicula porttitor, lacus nisi condimentum justo, id iaculis est nibh sed ligula. Sed tristique venenatis sodales.",
-    "title":"New sweater",
-    "categoryId":25,
-    "isActive":false,
-    "type": "donate"
-  },
     {
       "id":35,
       "date":"18-08-2019",
@@ -54,17 +43,6 @@
       "categoryId":21,
       "isActive":true,
       "type": "take it"
-    },
-    {
-      "id":36,
-      "date":"14-09-2018",
-      "userId":9,
-      "photos":["https://www.kurlon.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/b/e/berlin-wenge_2.jpg"],
-      "description":"Donec cursus urna vel enim scelerisque, eu ornare tortor laoreet. Praesent in tincidunt nisl. Curabitur arcu mi, rhoncus et leo laoreet, placerat accumsan dolor. Donec suscipit libero non vulputate condimentum. Praesent sit amet vehicula velit. Nullam nec commodo tortor. Maecenas imperdiet lectus quis nunc molestie, consectetur venenatis justo ullamcorper. Fusce eleifend magna id sapien ultrices placerat.",
-      "title":"Furniture",
-      "categoryId":23,
-      "isActive":false,
-      "type": "donate"
     },
     {
       "id":37,
