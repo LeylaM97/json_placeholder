@@ -346,16 +346,11 @@
     },
     {
       "id": 24,
-      "name": "home",
-      "subCategory": ""
-    },
-    {
-      "id": 25,
       "name": "books",
       "subCategory": ""
     },
     {
-      "id": 26,
+      "id": 25,
       "name": "clothes",
       "subCategory": "women"
     }
