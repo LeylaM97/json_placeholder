@@ -67,17 +67,6 @@
       "type": "donate"
     },
     {
-      "id":40,
-      "date":"14-09-2017",
-      "userId":1,
-      "photos":["https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1535141736-gi-1-rf28nhedbsr-aa-1535141725.jpg"],
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet tristique purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec feugiat nisl in risus posuere facilisis. Vivamus porta convallis tempor. Nullam ultrices sodales nisl et rutrum. ",
-      "title":"Refrigerator",
-      "categoryId":23,
-      "isActive":false,
-      "type": "donate"
-    },
-    {
       "id":43,
       "date":"22-06-2019",
       "userId":2,
@@ -183,17 +172,6 @@
       "photos":"",
       "description":"Duis dignissim nulla sit amet elit congue, quis ornare velit porttitor. Vivamus feugiat odio sed ipsum ullamcorper convallis. Curabitur iaculis egestas metus ut porttitor. Etiam ultrices ac diam quis porta. Nullam convallis mollis odio, nec condimentum eros feugiat at. Morbi volutpat mollis mauris, eu dignissim odio finibus ac. ",
       "title":"Scarf",
-      "categoryId":22,
-      "isActive":true,
-      "type": "take it"
-    },
-    {
-      "id":100,
-      "date":"03-12-2019",
-      "userId":4,
-      "photos":"",
-      "description":"Donec consequat consectetur ullamcorper. Suspendisse quis condimentum nisl. Donec in ipsum lectus. Curabitur hendrerit suscipit erat vitae mollis. Sed lacinia porta ante, vel pharetra dui pharetra id.",
-      "title":"Jacket",
       "categoryId":22,
       "isActive":true,
       "type": "take it"
